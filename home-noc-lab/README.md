@@ -2,7 +2,7 @@
 
 A home network operations centre (NOC) lab, built to practise the day-to-day work of a NOC technician: monitoring, troubleshooting, incident response, change management and documentation.
 
-**Author:** Ikechukwu Emmanuel Chidiebere, MSc Cyber Security (National College of Ireland), CompTIA Security+
+**Author:** Ikechukwu Emmanuel Chidiebere.
 
 ## Labs
 
