@@ -1,7 +1,7 @@
 # Lab 01: Linux Server Networking and Troubleshooting Fingerprints
 
 **Author:** Ikechukwu Emmanuel Chidiebere
-**Date:** 9–11 November 2026
+
 **Part of:** [home-noc-lab](README.md), a home network operations centre (NOC) built to practise real NOC work
 
 ---
