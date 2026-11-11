@@ -348,7 +348,3 @@ sudo ip route add default via 192.168.80.2
 | Wireshark `icmp`, `tcp.port == 22` | Display filters for ping and SSH traffic |
 
 ---
-
-## 10. Next lab
-
-**Lab 02: VLANs and inter-VLAN routing in Cisco Packet Tracer.** Build a switched network with three VLANs (servers, users, management) and a router connecting them, the core of a typical NOC-managed network.
